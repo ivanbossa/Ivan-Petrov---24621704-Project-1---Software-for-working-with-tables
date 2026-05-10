@@ -1,7 +1,7 @@
 package model.cell;
 
 /**
- * Represents a cell containing a formula (e.g. =R1C1+R2C3).
+ * Represents a cell containing a formula (=R1C1+R2C3).
  * The raw formula string is stored, and the computed result is cached after evaluation.
  */
 public class FormulaCell extends Cell {

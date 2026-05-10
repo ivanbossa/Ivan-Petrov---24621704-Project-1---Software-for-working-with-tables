@@ -25,7 +25,7 @@ public abstract class Cell {
 
     /**
      * Returns the numeric value of the cell for use in formula evaluation.
-     * String cells return 0.0 by default.
+     * String cells return 0 by default.
      */
     public abstract double getNumericValue();
 

@@ -1,7 +1,7 @@
 package model.cell;
 
 /**
- * Represents a cell reference in the format RxCy (e.g. R1C2 = row 1, column 2).
+ * Represents a cell reference in the format RxCy (R1C2 = row 1 and column 2).
  * Used inside formula expressions like =R1C1+R2C3
  */
 public class CellReference {

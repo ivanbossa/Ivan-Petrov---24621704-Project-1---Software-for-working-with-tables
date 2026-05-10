@@ -2,7 +2,7 @@ package model.cell;
 
 /**
  * Represents a cell containing a string value.
- * String values in the file are enclosed in double quotes: "hello"
+ * String values in the file are enclosed in double quotes ("hello")
  */
 public class StringCell extends Cell {
 

@@ -1,0 +1,4 @@
+10 | 20 | 30 | 40
+"hello" | 3.14 | 0
+=R1C1+R1C2 | =R1C3+R2C2 | =R2C2*R1C3
+"Try function" | =R1C1+R3C1 | =R4C2*R3C3

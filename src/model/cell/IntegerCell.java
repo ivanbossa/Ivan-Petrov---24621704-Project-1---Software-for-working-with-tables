@@ -1,6 +1,5 @@
 package model.cell;
 
-
 /**
  * Represents a cell containing an integer value.
  */

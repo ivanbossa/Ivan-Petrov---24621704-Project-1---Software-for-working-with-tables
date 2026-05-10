@@ -1,6 +1,6 @@
 package model.cell;
 /**
- * Represents a cell containing a floating-point (double) value.
+ * Represents a cell containing a double value.
  */
 public class DoubleCell extends Cell {
 
